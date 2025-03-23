@@ -1,0 +1,30 @@
+pessoas:
+  - nome: "João Silva"
+    idade: 30
+    endereco:
+      rua: "Rua das Flores, 123"
+      cidade: "São Paulo"
+      estado: "SP"
+      cep: "01234-567"
+    email: "joao.silva@email.com"
+    telefone: "+55 11 98765-4321"
+
+  - nome: "Maria Oliveira"
+    idade: 25
+    endereco:
+      rua: "Avenida Brasil, 456"
+      cidade: "Rio de Janeiro"
+      estado: "RJ"
+      cep: "23456-789"
+    email: "maria.oliveira@email.com"
+    telefone: "+55 21 91234-5678"
+
+  - nome: "Carlos Souza"
+    idade: 40
+    endereco:
+      rua: "Praça da Sé, 789"
+      cidade: "Salvador"
+      estado: "BA"
+      cep: "34567-890"
+    email: "carlos.souza@email.com"
+    telefone: "+55 71 99876-5432"
